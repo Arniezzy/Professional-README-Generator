@@ -1,8 +1,8 @@
 ## License
-  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
   ## Description
-  test test test
+  The Project was created to implement what we have learned from Node.js into creating a generator for a professional README.
 
   ## Table of Contents 
 
@@ -24,7 +24,7 @@ To install necessary dependencies, run the following command: npm i
 ```
 
 ## Usage
-tacos
+Nothing really.
 
 ## License
 ```
@@ -32,7 +32,7 @@ This project is licensed under the MIT license.
 ```
 
 ## Contributing
-burrritos
+n/a
 
 ## Tests
 ```
@@ -40,6 +40,6 @@ To run a test use: npm test
 ```
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at test@test.com.
-You can find more of my work at (https://github.com/test/).
+If you have any questions about the repo, open an issue or contact me directly at asanchez93901@gmail.com.
+You can find more of my work at (https://github.com/Arniezzy/).
 
